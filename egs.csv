@@ -1,0 +1,6 @@
+id,dataset,music_score,duration,text
+0001,opencpop,svs_demo/music_score/0001.mid,svs_demo/duration/0001.label,svs_demo/text/0001.txt
+0002,opencpop,svs_demo/music_score/0002.mid,svs_demo/duration/0002.label,svs_demo/text/0002.txt
+0003,opencpop,svs_demo/music_score/0003.mid,svs_demo/duration/0003.label,svs_demo/text/0003.txt
+0004,opencpop,svs_demo/music_score/0004.mid,svs_demo/duration/0004.label,svs_demo/text/0004.txt
+0005,opencpop,svs_demo/music_score/0005.mid,svs_demo/duration/0005.label,svs_demo/text/0005.txt
