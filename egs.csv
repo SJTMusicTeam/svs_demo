@@ -1,6 +1,4 @@
 id,dataset,music_score,duration,text
-0001,opencpop,svs_demo/music_score/0001.mid,svs_demo/duration/0001.label,svs_demo/text/0001.txt
-0002,opencpop,svs_demo/music_score/0002.mid,svs_demo/duration/0002.label,svs_demo/text/0002.txt
-0003,opencpop,svs_demo/music_score/0003.mid,svs_demo/duration/0003.label,svs_demo/text/0003.txt
-0004,opencpop,svs_demo/music_score/0004.mid,svs_demo/duration/0004.label,svs_demo/text/0004.txt
-0005,opencpop,svs_demo/music_score/0005.mid,svs_demo/duration/0005.label,svs_demo/text/0005.txt
+0001,opencpop,svs_demo/music_score/0001.mid,svs_demo/duration/0001.label,y v l in sh i l e SP t ian k ong AP h ui d e SP g eng j iang j iu AP
+0002,opencpop,svs_demo/music_score/0002.mid,svs_demo/duration/0002.label,x iang x in w o SP p o x iao h ui AP k ua sh an h ai ai AP zh un sh i d ao l ai
+0003,opencpop,svs_demo/music_score/0003.mid,svs_demo/duration/0003.label,x iao j iu w o ch ang ang j ie ie m ao AP m i r en d e w u k e j iu y ao
